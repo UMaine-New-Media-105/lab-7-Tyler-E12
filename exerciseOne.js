@@ -1,6 +1,9 @@
 let xCoord = 30;
+let x2Coord = 370;
 let yCoord = 30;
+let y2Coord = 30
 let offset = 30;
+let offset2 = -30
 arrayOfColors = ["red", "gold", "maroon"];
 function setup() {
   createCanvas(400, 400);
@@ -17,6 +20,15 @@ function draw() {
     xCoord += offset;
     yCoord += offset;
   }
+  for (let i = 0; i < 15; i++) {
+    let randomColor = random(arrayOfColors);
+   drawSprite(x2Coord,y2Coord, randomColor)
+    x2Coord += offset2
+    y2Coord -= offset2
+    
+  }
+  
+  
 }
 
 function drawSprite(x, y, color) {
