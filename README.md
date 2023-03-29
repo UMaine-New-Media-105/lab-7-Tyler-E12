@@ -1,1 +1,4 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/VOKVqSaw)
+exercise 1 - https://editor.p5js.org/Tyler_E/sketches/1Zd6ohQhN - Two loops were used to create an X of intersecting diagonal lines of circles, as well as giving them randomized but custom colors.
+exercise 2 - https://editor.p5js.org/Tyler_E/sketches/i0DHBpL3x - Uses a loop to create a 8x8 grid of circles across a 400x400 canvas, and to give them all a blue gradient.
+exercise 3 - https://editor.p5js.org/Tyler_E/sketches/tkhOMUxSz - A loop was used to create a grid of circles across a 400x400 canvas, and to give them all a blue gradient. If the mouse is pressed, the values of the gradient will invert, causing the circles to all have a new color.
